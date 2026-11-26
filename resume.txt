@@ -1,0 +1,52 @@
+SIVAGNANAM KOKILAN
+Senior AWS Cloud Engineer | Cloud & Hybrid Infrastructure Lead
+Chennai, India | Open to UAE / Saudi Arabia / Qatar relocation | Ready to relocate / Immediate joiner
+Phone: +91 9791189038
+Email: shivakokilan@gmail.com
+LinkedIn: https://www.linkedin.com/in/sivagnanamk
+GitHub: https://github.com/shivakokilan
+
+PROFESSIONAL SUMMARY
+Results-driven Senior AWS Cloud Engineer and Infrastructure Lead with 20+ years of enterprise IT experience, including 10 years managing mission-critical environments across the GCC (Qatar). Proven track record in architecting, migrating, and securing scalable, cost-optimized AWS hybrid cloud infrastructures. Experienced in Infrastructure as Code (Terraform, CloudFormation), CI/CD automation, enterprise networking (SD-WAN, VPN, Firewalls), and ITIL governance. The resume records cloud cost reductions of 35%+ and zero-downtime operations for multi-site organizations.
+
+CORE COMPETENCIES
+Cloud Architecture and AWS Services: AWS Control Tower, Landing Zone, EC2, S3, RDS, FSx, VPC, Transit Gateway, Direct Connect, Lambda, IAM Identity Center, Route 53, CloudFront, CloudWatch, AWS Well-Architected Framework, Hybrid Cloud Migration, Disaster Recovery.
+DevOps and Automation: Terraform, AWS CloudFormation, CI/CD, Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes, Ansible, Python Scripting, AWS CLI.
+Cloud Security and Enterprise Networking: IAM, AWS KMS, Secrets Manager, AWS WAF, AWS Config, CloudTrail, Zero Trust Architecture, Sophos and SonicWall Next-Generation Firewalls, SD-WAN, BGP, OSPF, Site-to-Site VPN, SSL VPN, VLAN.
+Systems, Virtualization and Governance: Windows Server, Active Directory, Group Policy, DNS, DHCP, VMware vSphere, Hyper-V, Microsoft SCCM, AWS Systems Manager (SSM), Office 365, Exchange Online, ITIL Service Management, SLA Management, Vendor Management.
+
+PROFESSIONAL EXPERIENCE
+AWS Cloud Infrastructure Consultant
+Infralink System — Chennai, India | March 2025 – Present
+- Led full-lifecycle migrations of enterprise workloads, including EC2, RDS, S3 and FSx, from on-premises data centers to AWS to improve scalability, resilience and availability.
+- Engineered multi-environment AWS deployments using Terraform and CloudFormation; the resume reports a 60% reduction in manual provisioning errors.
+- Built and maintained CI/CD pipelines using Jenkins, GitHub Actions, Git and Docker, collaborating with engineering teams on Kubernetes microservices deployments.
+- Implemented S3 lifecycle policies, intelligent data tiering, AWS Budgets and Cost Explorer controls; the resume reports 35% annual cloud cost savings.
+- Designed hybrid network topologies using AWS Transit Gateway, Direct Connect and Site-to-Site VPN; applied IAM least-privilege roles, KMS, WAF and Secrets Manager.
+- Implemented compliance auditing and monitoring using AWS Config, CloudTrail, CloudWatch and SNS.
+
+Senior IT Infrastructure and Cloud Operations Lead
+Almana & Partners — Doha, Qatar | September 2017 – January 2025
+- Directed hybrid IT infrastructure and cloud storage operations supporting more than 600 enterprise users across 10 branch locations.
+- Designed hybrid disaster recovery pipelines replicating critical on-premises ERP (Dynamics NAV 2017) and warehouse data to encrypted Amazon S3 buckets.
+- Managed network security across 10 branches, including Sophos Next-Generation Firewalls, VLAN routing, SD-WAN and SSL VPNs.
+- Administered Windows Server infrastructure, including Active Directory, Group Policy, DNS and DHCP, VMware environments and WithSecure Cloud Endpoint protection.
+- Conducted bare-metal recovery drills and maintained SLA compliance; received the Star of the Month award four times.
+
+Senior IT Administrator (Systems and Infrastructure)
+Qatar Pharma — Doha, Qatar | July 2015 – August 2017
+- Integrated on-premises Windows Server storage nodes with Amazon S3 for enterprise data backup and retention.
+- Configured SonicWall Site-to-Site VPN tunnels connecting Qatar headquarters with branch operations in Saudi Arabia.
+- Led a campus-wide fiber-optic network expansion to support low-latency ERP access across manufacturing and administrative facilities.
+- Standardized Active Directory, Group Policy, patch management and IT standard operating procedures for regulatory compliance.
+
+EARLIER CAREER HISTORY (1999–2015)
+- Systems Administrator | SDJ IT Solutions, Chennai, India | 2013–2015
+- IT Support Engineer (Level 3) | Zone Networks Ltd, London, UK | 2012–2013
+- IT Assistant (UK Internship) | Digital Media Services UK Ltd, London, UK | 2011
+- Network and Systems Administrator | Origin Infosys Pvt Ltd, Chennai, India | 2004–2006
+- Customer Support Engineer | Solaris Computers Pvt Ltd, Chennai, India | 1999–2004
+
+EDUCATION AND PROFESSIONAL DEVELOPMENT
+- Post Graduate Diploma in Computing | University of Central Lancashire, Preston, UK | 2008
+- Professional Training: AWS and Azure Solutions Architect | Besant Technologies, Chennai, India | 2021
